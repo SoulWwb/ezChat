@@ -1,0 +1,17 @@
+{
+  "name": "koa-socket-learning",
+  "version": "1.0.0",
+  "description": "learn how to use socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wwb",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.2.0",
+    "koa-static": "^3.0.0",
+    "moment": "^2.18.1",
+    "socket.io": "^1.7.3"
+  }
+}
